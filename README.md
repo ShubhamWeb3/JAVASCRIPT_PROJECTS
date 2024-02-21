@@ -1,1 +1,1 @@
-# JAVASCRIPT_PROJECTS
+Few Basic Projects of JavaScript 
